@@ -133,7 +133,8 @@ Points <- Points %>%
       )) %>%
    mutate(Points = case_when(
      B.Points > 150 & Econ == 1 & ABS > 3 ~ 150,    #No Econ Journal gets more than 150 Points
-     B.Points > 150 & Econ == 1 & ABS < 5 ~ 120,    #ABS must be 4 or 5 for more than 120
+     B.Points > 150 & Econ == 1 & ABS < 4 ~ 120,    #ABS must be 4 or 5 for more than 120
+     B.Points > 120 & Econ == 1 & ABS < 4 ~ 120,
      B.Points > 120 & Econ == 0 ~ 120,
      TRUE ~ Points))%>%
    mutate(Points = case_when(
@@ -154,7 +155,7 @@ Points <- Points %>%
     Points >= 120 & Points < 150 ~ "Level I-B",
     Points ==150 ~ "Level I-A",
     TRUE         ~ "No Level")) %>%
-  select(Level, Points, Journal, ISSN, Econ, ABS, I, A, T) %>%
+  select(Level, Points, Journal, ISSN, Econ, ABS, I, A, T, B.Points) %>%
   arrange(desc(Econ), desc(Points), Journal)
 
 #Output Results
