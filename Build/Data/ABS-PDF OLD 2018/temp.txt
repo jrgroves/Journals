@@ -1,0 +1,40 @@
+"";"x"
+"1";"3/14/2018                         Academic Journal Guide 2018 - Chartered Association of Business Schools"
+"2";"                                                           Rankings"
+"3";"                                                           AJG      AJG      ABS       ABS      JCR    SJR  SNIP IPP"
+"4";"          ISSN  Field Journal Title                        2018     2015     2010      2009     rank   rank rank Rank"
+"5";"          1368- ECON  Econometrics Journal                 3        3        3         3        104    47   83   104"
+"6";"          4221"
+"7";"          0013- ECON  Economic Development and             3        3        3         3        88     69   84   76"
+"8";"          0079        Cultural Change"
+"9";"          0095- ECON  Economic Inquiry                     3        3        3         3        106    71   86   103"
+"10";"          2583"
+"11";"          0266- ECON  Economic Policy                      3        3        3         3        18     33   9    21"
+"12";"          4658"
+"13";"          0938- ECON  Economic Theory                      3        3        3         3        114    48   91   118"
+"14";"          2259"
+"15";"          0013- ECON  Economica                            3        3        3         3        79     85   64   90"
+"16";"          0427"
+"17";"          0165- ECON  Economics Letters                    3        3        3         3        160    132  205  152"
+"18";"          1765"
+"19";"          0140- ECON  Energy Economics                     3        3        2         2        20     44   39   24"
+"20";"          9883"
+"21";"          0924- ECON  Environmental and Resource           3        3        2         2        50     68   88   62"
+"22";"          6460        Economics"
+"23";"          0014- ECON  European Economic Review             3        3        3         3        62     49   47   58"
+"24";"          2921"
+"25";"          0165- ECON  European Review of Agricultural      3        3        2         2        55     81   62   54"
+"26";"          1587        Economics"
+"27";"          1386- ECON  Experimental Economics               3        3        2         2        19     39   41   14"
+"28";"          4157"
+"29";"          0899- ECON  Games and Economic Behavior          3        3        4         4        94     45   61   70"
+"30";"          8256"
+"31";"          1057- ECON  Health Economics                     3        3        2         2        39     67   57   30"
+"32";"          9230"
+"33";"          2041- ECON  IMF Economic Review (formerly        3        3        3         3        36     25   29   33"
+"34";"          4161        IMF Staff Papers with ISSN"
+"35";"                      1020-7635)"
+"36";"          0167- ECON  International Journal of             3        3        3         4        100    63   78   82"
+"37";"          7187        Industrial Organization"
+"38";"          0306- ECON  International Statistical Review     3        3                           105    103  68   124"
+"39";"          7734"
